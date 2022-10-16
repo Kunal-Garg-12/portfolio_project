@@ -1,2 +1,6 @@
 # portfolio_project
-A self portfolio created for ETE
+Technologies used:
+- HTML
+- CSS
+- JavaScript
+- SliderJs
